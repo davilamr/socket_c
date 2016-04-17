@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1460899716 source:/Users/Mauro/Documents/workspace_videos_c/Chat/client.c
+	<unistd.h>
+	<errno.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+
+1460900477 source:/Users/Mauro/Documents/workspace_videos_c/Chat/main.c
+	<stdio.h>
+	<stdlib.h>
+	"inc/client.h"
+	"inc/server.h"
+
+1460898813 /Users/Mauro/Documents/workspace_videos_c/Chat/inc/client.h
+
+1460898999 /Users/Mauro/Documents/workspace_videos_c/Chat/inc/server.h
+
+1460900436 source:/Users/Mauro/Documents/workspace_videos_c/Chat/server.c
+	<unistd.h>
+	<errno.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<arpa/inet.h>
+	<netinet/in.h>
+
