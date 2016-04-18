@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1460995783 source:/home/mauro/Documentos/workspace_c/socket_c/ReadPage/main.c
+	<stdio.h>
+	<stdlib.h>
+	"inc/http.h"
+
+1460996120 source:/home/mauro/Documentos/workspace_c/socket_c/ReadPage/http.c
+	<stdio.h>
+	<stdlib.h>
+	<netdb.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<string.h>
+	<unistd.h>
+	"inc/http.h"
+
+1460996097 /home/mauro/Documentos/workspace_c/socket_c/ReadPage/inc/http.h
+
